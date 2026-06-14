@@ -2,6 +2,14 @@
     "name": "parvion/ip-intelligence",
     "description": "A high-performance Laravel package for IP intelligence, geolocation, and device detection.",
     "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anand Kumar",
+            "email": "anandkumar101002@gmail.com",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "php": "^8.0",
         "illuminate/support": "^10.0|^11.0|^12.0|^13.0",
